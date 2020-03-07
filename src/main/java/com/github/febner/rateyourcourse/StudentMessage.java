@@ -1,4 +1,4 @@
-package com.example.messagingstompwebsocket;
+package com.github.febner.rateyourcourse;
 
 import lombok.Data;
 

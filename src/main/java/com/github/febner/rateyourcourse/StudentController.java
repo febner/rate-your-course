@@ -1,4 +1,4 @@
-package com.example.messagingstompwebsocket;
+package com.github.febner.rateyourcourse;
 
 import org.springframework.context.event.EventListener;
 import org.springframework.messaging.handler.annotation.MessageMapping;
