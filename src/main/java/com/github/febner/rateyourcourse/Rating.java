@@ -6,6 +6,6 @@ import java.time.LocalTime;
 
 @Value
 public class Rating {
-    private Integer current;
-    private LocalTime timeStamp;
+    Integer current;
+    LocalTime timeStamp;
 }
